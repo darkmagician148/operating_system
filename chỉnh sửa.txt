@@ -1,0 +1,13 @@
+Nội dung chỉnh sửa :
+-slide,báo cáo :
+	+, chỉnh sửa lại đơn vị thời gian giữa silde và kết quả code chạy 
+	+, Bổ xung và điều chỉnh các trường hợp xét thêm của các giải thuật scheduling
+	+, Bố cục và xắp xếp các trường hợp
+	+, Đưa thêm hình ảnh kết quả chạy thuyết phục luận điểm đưa ra
+	+, Bổ sung phần nội dung so sánh ưu nhược điểm các giải thuật
+-Code:
+	+, thay đổi cấu trúc của thread, thay đổi thời gian dễ dàng hơn
+	+, bổ sung phần in thời gian chiếm dụng cpa
+	+, tạo thêm thread để thử nghiệm vs các giải thuật khi chạy nhiều luồng và đẩy đến 
+giới máy đến tình huống khan hiếm tài nguyên ( hiện tại để các thread là chú thích có thể vào và chỉnh sửa
+	+, Bổ xung thêm 1 số các loại giải thuật. Tuy nhiên chỉ tập chung vào 4 giải thuật chính mà nhóm chình bày
